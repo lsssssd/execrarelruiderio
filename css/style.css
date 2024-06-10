@@ -1,0 +1,13 @@
+body{background-color: rgb(0 0 0);}
+
+.titulos{display: table-cell; padding-right: 40%; color: white; font-size: 160%}
+
+p{color: white}
+
+a, a:link, a:visited, a:active, a:hover {
+	/* this removes the blue color from links on Chrome 7.0.517.41 */
+	color: inherit;
+	text-decoration: inherit;
+}
+
+.eer{color: white; font-family: cursive;}
